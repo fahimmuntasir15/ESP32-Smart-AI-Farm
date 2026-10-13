@@ -1,0 +1,12 @@
+# Sensitive Credentials (DO NOT COMMIT)
+config.h
+
+# Arduino / ESP32 Build Outputs
+build/
+*.hex
+*.bin
+*.elf
+
+# System Artifacts
+.DS_Store
+Thumbs.db
