@@ -90,5 +90,8 @@ Open Arduino IDE, go to Library Manager (**Ctrl + Shift + I**), and install the 
 4. Choose the correct COM port under **Tools $\rightarrow$ Port**.
 5. Click **Upload** ($\rightarrow$) to flash the program.
 
-![Smart Farm Hardware Picture 1](IMG_20260929_12535535.jpg)
-![Smart Farm Hardware Picture 2](IMG_20260929_12572056.jpg)
+<br>
+<img src="IMG_20260929_12535535.jpg" width="100%" alt="Smart Farm Hardware Picture 1">
+<br><br>
+<img src="IMG_20260929_12572056.jpg" width="100%" alt="Smart Farm Hardware Picture 2">
+
