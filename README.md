@@ -89,3 +89,6 @@ Open Arduino IDE, go to Library Manager (**Ctrl + Shift + I**), and install the 
 3. Select **ESP32 Dev Module** under **Tools $\rightarrow$ Board**.
 4. Choose the correct COM port under **Tools $\rightarrow$ Port**.
 5. Click **Upload** ($\rightarrow$) to flash the program.
+
+![Smart Farm Hardware Picture 1](IMG_20260929_12535535.jpg)
+![Smart Farm Hardware Picture 2](IMG_20260929_12572056.jpg)
